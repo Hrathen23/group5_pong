@@ -15,7 +15,11 @@ void hide_cursor(void);
 
 int main(){
 
+	resize_console(CON_HIGHT, CON_WIDTH);
+	hide_cursor();
 
+	while(1==1);
+	return 0;
 
 }
 
