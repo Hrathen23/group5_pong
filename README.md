@@ -11,6 +11,6 @@ Pong videogame created by Group 5 (Anghel, Garcia and Casanovas) from 1ºFv Sale
     para "dibujar" el campo)
     
 3.- Crear dos funciones diferentes para dibujar cada jugador llamados "player1" y "player2" (Utilizar #define para implementar el codigo ASCII para dibujar
-    a los jugadores y un #define para la longitud del jugador)
+    a los jugadores)
     
 4.- Crear la función del balón llamada "ball" (Utilizar #define para implementar el codigo ASCII para dibujar la pelota)
